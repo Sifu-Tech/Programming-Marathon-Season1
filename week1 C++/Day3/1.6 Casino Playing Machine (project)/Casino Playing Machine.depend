@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711581667 source:c:\users\obuyi\desktop\programming marathon\week1 c++\day3\casino playing machine\main.cpp
+	<iostream>
+	<ctime>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711578942 source:c:\users\obuyi\desktop\programming marathon\week1 c++\day3\rolling a dice\main.cpp
+	<iostream>
+	<ctime>
+
