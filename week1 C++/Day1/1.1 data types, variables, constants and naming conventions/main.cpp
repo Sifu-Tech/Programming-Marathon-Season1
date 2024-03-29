@@ -14,7 +14,7 @@ int main()
     string current_marathon = "Programming Marathon"; //data type: string , naming convention: snake casing i.e. words are separated using an underscore
     cout << "Welcome to the " << current_marathon  << endl;
 
-    int duration = 10;  //data type: string
+    int duration = 10;  //data type: integer
     cout << "The " << current_marathon << "shall last for " << duration << " days " << endl;
 
     float ticket_price = 35.5; // data type: float , naming convention: camelCasing i.e. the first letter of second word is capital
