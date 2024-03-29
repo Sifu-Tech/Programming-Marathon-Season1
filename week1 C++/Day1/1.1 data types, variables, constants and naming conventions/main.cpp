@@ -17,7 +17,7 @@ int main()
     int duration = 10;  //data type: integer
     cout << "The " << current_marathon << "shall last for " << duration << " days " << endl;
 
-    float ticket_price = 35.5; // data type: float , naming convention: camelCasing i.e. the first letter of second word is capital
+    float ticket_price = 35.5f; // data type: float , naming convention: camelCasing i.e. the first letter of second word is capital
     cout << "The tickets to the " << current_marathon << " were sold at $" << ticket_price << " each" << endl;
 
     bool HasStarted = true; //data type: boolean , naming convention: Pascal
