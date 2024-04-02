@@ -21,7 +21,7 @@ int main()
     cout << "---------------------------- \n";
 
     if(operatorSign == "+"){
-        cout << "The answer is " << firstNumber + secondNumber << '\n\n';
+        cout << "The answer is " << firstNumber + secondNumber << '\n' << '\n' ;
     }
     else if(operatorSign == "-"){
         cout << "The answer is " << firstNumber - secondNumber << endl << endl;
