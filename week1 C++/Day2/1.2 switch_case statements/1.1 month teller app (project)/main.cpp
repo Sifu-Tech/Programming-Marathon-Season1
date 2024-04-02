@@ -48,7 +48,7 @@ int main()
         cout << "---> November \n\n";
         break;
     case 12:
-        cout << "---> February \n\n";
+        cout << "---> December \n\n";
         break;
     default:
         cout << "Please enter a number (1-12)  \n\n";
